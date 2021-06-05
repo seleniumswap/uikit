@@ -2494,18 +2494,18 @@ var socials = [
         items: [
             {
                 label: "Annoucements",
-                href: "https://t.me/seleniumswap",
+                href: "https://t.me/selenium_swap",
             },
             {
                 label: "English",
-                href: "https://t.me/seleniumswapchat",
+                href: "https://t.me/selenium_swapchat",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/seleniumswap",
+        href: "https://twitter.com/selenium_swap",
     },
 ];
 var MENU_HEIGHT = 64;

@@ -79,7 +79,7 @@
   "files": [
     "dist"
   ],
-  "homepage": "https://github.com/seleniumswap/uikit#readme",
+  "homepage": "https://github.com/selenium_swap/uikit#readme",
   "husky": {
     "hooks": {
       "pre-commit": "yarn format:write",
@@ -103,7 +103,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seleniumswap/uikit.git"
+    "url": "git+https://github.com/selenium_swap/uikit.git"
   },
   "scripts": {
     "build": "rm -rf ./dist && rollup -c && tsc -d --emitDeclarationOnly --declarationDir dist",
