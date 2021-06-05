@@ -2620,7 +2620,7 @@ var PriceLink = styled__default['default'].a(templateObject_1$9 || (templateObje
 var StyledImage = styled__default['default'].img(templateObject_2$4 || (templateObject_2$4 = __makeTemplateObject(["\n  width: 24px;\n  height: 24px;\n"], ["\n  width: 24px;\n  height: 24px;\n"])));
 var CakePrice = function (_a) {
     var cakePriceUsd = _a.cakePriceUsd;
-    return cakePriceUsd ? (React__default['default'].createElement(PriceLink, { href: "https://bscscan.com/token/0xd46936677b2c1bb696f2b67c55239331e2b7cd42", target: "_blank" },
+    return cakePriceUsd ? (React__default['default'].createElement(PriceLink, { href: "https://bscscan.com/token/0x2C78E6b7B24e56A823A32dd1678dCfeDCeFD62E4", target: "_blank" },
         React__default['default'].createElement(StyledImage, { src: "/images/tokens/selenium.png" }),
         React__default['default'].createElement(Text, { color: "textSubtle", bold: true }, "$" + cakePriceUsd.toFixed(3)))) : (React__default['default'].createElement(Skeleton, { width: 80, height: 24 }));
 };

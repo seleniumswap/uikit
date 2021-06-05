@@ -2607,7 +2607,7 @@ var PriceLink = styled.a(templateObject_1$9 || (templateObject_1$9 = __makeTempl
 var StyledImage = styled.img(templateObject_2$4 || (templateObject_2$4 = __makeTemplateObject(["\n  width: 24px;\n  height: 24px;\n"], ["\n  width: 24px;\n  height: 24px;\n"])));
 var CakePrice = function (_a) {
     var cakePriceUsd = _a.cakePriceUsd;
-    return cakePriceUsd ? (React.createElement(PriceLink, { href: "https://bscscan.com/token/0xd46936677b2c1bb696f2b67c55239331e2b7cd42", target: "_blank" },
+    return cakePriceUsd ? (React.createElement(PriceLink, { href: "https://bscscan.com/token/0x2C78E6b7B24e56A823A32dd1678dCfeDCeFD62E4", target: "_blank" },
         React.createElement(StyledImage, { src: "/images/tokens/selenium.png" }),
         React.createElement(Text, { color: "textSubtle", bold: true }, "$" + cakePriceUsd.toFixed(3)))) : (React.createElement(Skeleton, { width: 80, height: 24 }));
 };
