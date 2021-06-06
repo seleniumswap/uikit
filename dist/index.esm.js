@@ -2481,11 +2481,11 @@ var socials = [
         items: [
             {
                 label: "Annoucements",
-                href: "https://t.me/selenium_swap",
+                href: "https://t.me/seleniumswap",
             },
             {
                 label: "English",
-                href: "https://t.me/selenium_swapchat",
+                href: "https://t.me/seleniumswapchat",
             },
         ],
     },
